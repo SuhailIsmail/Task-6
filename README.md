@@ -1,6 +1,8 @@
 # Task-6
 Sales Trend Analysis Using Aggregations. This setup assumes you’re analyzing e-commerce sales using SQL (MySQL, PostgreSQL, or SQLite) on a dataset with orders, order_items, and relevant fields.
 # 📊 Sales Trend Analysis Using SQL
+![Content Type by Rating](https://github.com/SuhailIsmail/Task-6/blob/main/2.png?raw=true)
+![Content Type by Rating](https://github.com/SuhailIsmail/Task-6/blob/main/4.png?raw=true)
 
 ## 🧩 Project Overview
 This project focuses on performing **Sales Trend Analysis** using **SQL** (MySQL / PostgreSQL / SQLite). The goal is to analyze **monthly revenue** and **order volume trends** by leveraging SQL aggregation functions and date-based grouping.
